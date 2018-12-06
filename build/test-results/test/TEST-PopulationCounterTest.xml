@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PopulationCounterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-06T19:55:23" hostname="MACLTUS66012" time="1.416">
+  <properties/>
+  <testcase name="testSomeLibraryMethod" classname="PopulationCounterTest" time="1.416"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
